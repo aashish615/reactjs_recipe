@@ -5,7 +5,7 @@ const Header = props => {
   return (
     <div className="jumbotron">
       <h1 className="display-1">
-        <i class="material-icons brand-icon">fastfood</i> Food Recipe
+        <i class="material-icons brand-icon">fastfood</i> Food Recipe Ashish
       </h1>
       <div class="input-group w-50 mx-auto">
         <input
